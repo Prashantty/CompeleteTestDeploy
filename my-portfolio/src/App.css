@@ -4,7 +4,10 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Arial', sans-serif;
-  background-color: #f0f0f0;
+  background-image: url('https://c0.wallpaperflare.com/preview/408/856/993/analytics-background-book-business.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgba(240, 240, 240, 0.8); /* Add alpha value for transparency */
   color: #333;
 }
 
@@ -13,7 +16,7 @@ body {
 }
 
 header {
-  background-color: #282c34;
+  background-color: rgba(40, 44, 52, 0.8); /* Transparent dark blue */
   padding: 20px;
   color: white;
 }
@@ -24,7 +27,7 @@ h1 {
 }
 
 nav {
-  background-color: #61dafb;
+  background-color: rgba(15, 47, 56, 0.8); /* Transparent dark green */
   padding: 10px;
 }
 
@@ -33,7 +36,7 @@ nav ul {
   margin: 0;
   padding: 0;
   display: flex;
-  justify-content: center;
+  justify-content: right;
 }
 
 nav li {
@@ -46,14 +49,14 @@ nav li {
 }
 
 nav li:hover {
-  color: #282c34;
+  color: rgba(40, 44, 52, 1); /* Dark blue */
 }
 
 main {
   max-width: 800px;
   margin: 20px auto;
   padding: 20px;
-  background-color: rgb(110, 110, 110);
+  background-color: rgba(110, 110, 110, 0.8); /* Transparent gray */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -61,7 +64,7 @@ main {
 }
 
 h2 {
-  color: #282c34;
+  color: rgba(40, 44, 52, 1); /* Dark blue */
 }
 
 h3 {
@@ -77,7 +80,7 @@ section {
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  background-color: #b4bb9d;
+  background-color: rgba(233, 233, 233, 0.9); /* Slightly transparent light gray */
   transition: transform 0.3s ease;
 }
 
@@ -101,9 +104,9 @@ ul li {
 }
 
 footer {
-  background-color: #282c34;
+  background-color: rgba(40, 44, 52, 0.8); /* Transparent dark blue */
   padding: 10px;
-  color: white;
+  color: rgb(255, 255, 255);
   position: fixed;
   bottom: 0;
   width: 100%;

@@ -13,8 +13,7 @@ function App() {
         <section>
           <h2>About Me</h2>
           <p>
-            Hi, I'm Prashant Kumar, a Full Stack Developer specializing in MERN stack. I'm currently pursuing
-            a Master's in Computer Applications (MCA) at Galgotias University. My journey in the field of
+            Hi, I'm Prashant Kumar, a Full Stack Developer specializing in MERN stack. I'd my Master's in Computer Applications (MCA) at Galgotias University. My journey in the field of
             computer science began with a Bachelor's in Computer Application (BCA) from Patliputra University.
           </p>
         </section>
