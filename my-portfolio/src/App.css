@@ -7,7 +7,7 @@ body {
   background-image: url('https://c0.wallpaperflare.com/preview/408/856/993/analytics-background-book-business.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: rgba(240, 240, 240, 0.8); /* Add alpha value for transparency */
+  /*background-color: rgba(240, 240, 240, 0.8); /* Add alpha value for transparency */
   color: #333;
 }
 
@@ -56,7 +56,7 @@ main {
   max-width: 800px;
   margin: 20px auto;
   padding: 20px;
-  background-color: rgba(110, 110, 110, 0.8); /* Transparent gray */
+  background-color: rgba(204, 204, 204, 0.8); /* Transparent gray */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -104,7 +104,7 @@ ul li {
 }
 
 footer {
-  background-color: rgba(40, 44, 52, 0.8); /* Transparent dark blue */
+  background-color: rgba(16, 16, 17, 0.8); /* Transparent dark blue */
   padding: 10px;
   color: rgb(255, 255, 255);
   position: fixed;
