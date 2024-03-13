@@ -12,7 +12,7 @@ To run this React JS application locally, follow these steps:
    git clone https://github.com/Prashantty/CompeleteTestDeploy.git
 2. Navigate to the project directory.
     ```bash
-   cd your-repo
+   cd CompeleteTestDeploy
 4. Install dependencies using npm or yarn.
     ```bash
    npm install
